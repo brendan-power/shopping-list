@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Xbox
+- Bananas 
+- Apples
+- More bagels
